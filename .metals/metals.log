@@ -1,0 +1,40 @@
+2022.05.12 21:51:38 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at c:\Users\Grizonel\Desktop\DAI\akka-http-quickstart-scala\.metals\lsp.trace.json or C:\Users\Grizonel\AppData\Local\scalameta\metals\cache\lsp.trace.json
+2022.05.12 21:51:39 INFO  logging to file C:\Users\Grizonel\Desktop\DAI\akka-http-quickstart-scala\.metals\metals.log
+2022.05.12 21:51:39 INFO  Started: Metals version 0.11.5 in workspace 'C:\Users\Grizonel\Desktop\DAI\akka-http-quickstart-scala' for client Visual Studio Code 1.67.1.
+2022.05.12 21:51:43 INFO  time: initialize in 3.82s
+2022.05.12 21:51:43 WARN  Flyway upgrade recommended: H2 2.1.212 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.1.210.
+2022.05.12 21:51:43 WARN  Build server is not auto-connectable.
+2022.05.12 21:54:19 WARN  no build target for: C:\Users\Grizonel\Desktop\DAI\akka-http-quickstart-scala\src\main\scala\com\example\QuickstartApp.scala
+2022.05.12 21:54:22 INFO  no build target found for C:\Users\Grizonel\Desktop\DAI\akka-http-quickstart-scala\src\main\scala\com\example\QuickstartApp.scala. Using presentation compiler with project's scala-library version: 3.1.2
+May 12, 2022 9:54:22 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8
+2022.05.12 21:54:24 INFO  time: code lens generation in 2.22s
+2022.05.12 21:54:24 INFO  time: code lens generation in 5.2s
+2022.05.12 21:54:24 INFO  time: code lens generation in 2.17s
+2022.05.12 21:54:26 WARN  no build target for: C:\Users\Grizonel\Desktop\DAI\akka-http-quickstart-scala\src\main\scala\com\example\QuickstartApp.scala
+2022.05.12 21:54:27 WARN  no build target for: C:\Users\Grizonel\Desktop\DAI\akka-http-quickstart-scala\src\main\scala\com\example\QuickstartApp.scala
+2022.05.12 21:54:37 WARN  no build target for: C:\Users\Grizonel\Desktop\DAI\akka-http-quickstart-scala\src\main\scala\com\example\QuickstartApp.scala
+2022.05.12 21:55:03 INFO  shutting down Metals
+2022.05.12 21:55:03 ERROR Unexpected error initializing server
+org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Request window/showMessageRequest failed with message: Canceled
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleResponse(RemoteEndpoint.java:209)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:193)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+	at java.lang.Thread.run(Thread.java:832)
+
+2022.05.12 21:59:37 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at c:\Users\Grizonel\Desktop\DAI\akka-http-quickstart-scala\.metals\lsp.trace.json or C:\Users\Grizonel\AppData\Local\scalameta\metals\cache\lsp.trace.json
+2022.05.12 21:59:38 INFO  logging to file C:\Users\Grizonel\Desktop\DAI\akka-http-quickstart-scala\.metals\metals.log
+2022.05.12 21:59:38 INFO  Started: Metals version 0.11.5 in workspace 'C:\Users\Grizonel\Desktop\DAI\akka-http-quickstart-scala' for client Visual Studio Code 1.67.1.
+2022.05.12 21:59:42 INFO  time: initialize in 3.57s
+2022.05.12 21:59:42 WARN  Flyway upgrade recommended: H2 2.1.212 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.1.210.
+2022.05.12 21:59:42 WARN  Build server is not auto-connectable.
+2022.05.12 21:59:43 INFO  skipping build import with status 'Requested'
+2022.05.12 21:59:46 WARN  no build target for: C:\Users\Grizonel\Desktop\DAI\akka-http-quickstart-scala\src\main\scala\com\example\QuickstartApp.scala
+2022.05.12 21:59:46 INFO  shutting down Metals
+2022.05.12 21:59:46 WARN  Flyway upgrade recommended: H2 2.1.212 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.1.210.
