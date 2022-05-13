@@ -76,6 +76,7 @@ object BookRegistry {
       // case UpdateBook(id, book, replyTo) =>
       //   replyTo ! ActionPerformed(s"Book ${book.id} updated.")
       //   registry(books.filterNot(_.id == id) + book)
+
     }
 }
 //#book-registry-actor
